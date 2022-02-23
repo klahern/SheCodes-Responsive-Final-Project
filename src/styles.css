@@ -1,0 +1,26 @@
+h1 {
+    
+
+font-family: Red Hat Text;
+font-style: normal;
+font-weight: bold;
+font-size: 55px;
+text-align: center;
+
+
+color: #FA4772;
+}
+
+h2 {
+   color: #10C7B1;
+font-family: Red Hat Text;
+}
+
+#accent-h2-text {
+color: #FA4772;
+}
+
+#title-name {
+   color: #FA4772;
+   font-size: 55px;
+}
