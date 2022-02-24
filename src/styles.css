@@ -1,11 +1,13 @@
+
 h1 {
     
 
 font-family: Red Hat Text;
 font-style: normal;
 font-weight: bold;
-font-size: 55px;
+font-size: 75px;
 text-align: center;
+margin: 50px auto;
 
 
 color: #FA4772;
@@ -14,6 +16,7 @@ color: #FA4772;
 h2 {
    color: #10C7B1;
 font-family: Red Hat Text;
+font-size: 75px;
 }
 
 #accent-h2-text {
@@ -22,5 +25,59 @@ color: #FA4772;
 
 #title-name {
    color: #FA4772;
-   font-size: 55px;
+   font-size: 75px;
 }
+#sub-title {
+    font-size: 55px;
+}
+
+.heading-container {
+   display: flex; 
+   flex-direction: column;
+   text-align: center;
+   margin: 25px auto;
+   font-weight: bold;
+   
+
+   
+}
+
+#contact-button {
+   
+
+text-decoration: none;
+color: black ;
+border: solid 1px;
+border-color: #FA4772;
+border-radius: 5px;
+font-family: Red Hat Text;
+font-weight: bolder;
+padding: 10px 30px;
+font-size: 20px;
+
+}
+
+#contact-button:hover {
+    color:white;
+
+    background-color: #10C7B1;
+}
+
+p {
+   
+    font-size: 25px;
+font-family: Red Hat Text;
+    
+   
+}
+
+.app-titles{
+    font-size: 55px;
+    font-family:Red Hat Text;
+    color:#FA4772;
+}
+
+.sub-heading {
+    font-size: 45px;
+}
+
