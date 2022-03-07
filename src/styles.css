@@ -57,6 +57,7 @@ padding: 10px 30px;
 font-size: 20px;
 
 
+
 }
 
 #contact-button:hover {
@@ -118,6 +119,75 @@ color: white;
 }
 
 .content {
-display: block;
+text-align: center;
+margin: 25px;
 
+}
+h3{
+    color: #FA4772;
+    font-family:Red Hat Text;
+    font-weight: bolder;
+    padding: 10px;
+    
+}
+
+.project-links {
+    text-decoration: none;
+    font-size: 25px;
+    color: #10C7B1;
+    border: #FA4772 solid 1px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.project-links:hover{
+    border:none;
+    background-color: #10C7B1;
+    color: white;
+    border-radius: 10px;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    padding: 25px;
+}
+
+.project-header{
+    font-size: 65px;
+    padding: 25px;
+}
+
+#about-page-header {
+    font-size: 75px;
+}
+
+#about-me-header {
+    font-size: 55px;
+}
+
+#about-me-text {
+    font-size: 30px;
+}
+
+#about-me-button {
+    display:block;
+
+    text-decoration: none;
+color: black ;
+border: solid 1px;
+border-color: #FA4772;
+border-radius: 5px;
+font-family: Red Hat Text;
+font-weight: bolder;
+padding: 10px 30px;
+font-size: 20px;
+
+
+}
+
+#about-me-button:hover {
+ color:white;
+
+    background-color: #10C7B1;
 }
