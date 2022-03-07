@@ -116,3 +116,8 @@ color: white;
 #submit-button:hover{
     background-color: #10C7B1;
 }
+
+.content {
+display: block;
+
+}
